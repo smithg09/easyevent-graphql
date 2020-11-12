@@ -56,7 +56,7 @@ npm run server
 ```
 ## Build
 
-Run `npm run build ` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `npm run heroku-postbuild ` to build the project and deploy to heroku 
 
 ## Understand your workspace
 
