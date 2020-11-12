@@ -51,7 +51,8 @@ npm install
 Once installed start the server and frontend
 
 ```
-npm start
+npm run client
+npm run server
 ```
 ## Build
 
