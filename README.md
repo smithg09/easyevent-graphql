@@ -6,6 +6,7 @@
     💻 EasyEvent a event booking application with User Authentication and Authorization using JWT.This is made using React , Nodejs and MongoDB 
     <br />
     <br />
+    <a href="http://eventbooking-graphql.herokuapp.com/"> Check it out live here </a>
     <a href="https://github.com/smithg09/easyevent-graphql/issues/new?assignees=&labels=&template=bug_report.md&title=">🐞 Bug Report</a> &nbsp;&nbsp;
     <a href="https://github.com/smithg09/easyevent-graphql/issues/new?assignees=&labels=&template=feature_request.md&title=">📢 Feature Request</a>
     <br />
