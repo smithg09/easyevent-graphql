@@ -45,17 +45,13 @@ class AuthPage extends Component {
         if (!this.state.isLogin) {
             requestBody = {
                 query: `
-                    mutation CreateUser($email: String! , $password: String!) {
-                        createUser(userInput:{email: $email , password: $password}) {
+                    mutation {
+                        createUser(userInput:{email: "${email}" , password: "${password}"}) {
                             _id
                             email
                         }
                     }
-                `,
-                variable: {
-                    email: email,
-                    password: password
-                }
+                `
             }
             
         }
