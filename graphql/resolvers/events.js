@@ -5,8 +5,6 @@ const { user } = require('./merge')
 const { transformEvent } = require('./merge');
 
 
-
-
 module.exports = {
   events: async () => {
     try {
