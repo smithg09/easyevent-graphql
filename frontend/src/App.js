@@ -5,6 +5,7 @@ import AuthPage from './pages/Auth';
 import EventPage from "./pages/Events";
 import BookingPage from "./pages/Bookings";
 import MainNavigation from './components/Navigation/MainNavigation';
+import BottomNavigation from "./components/BottomNavigation/MainNavigation";
 import AuthContext from './context/auth-context';
 
 import './App.css';
@@ -60,6 +61,7 @@ logout = () => {
                 {!this.state.token && <Redirect to="/auth" exact />}
               </Switch>
             </main>
+            <BottomNavigation />
           </AuthContext.Provider>
         </React.Fragment>
       </BrowserRouter>

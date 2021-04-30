@@ -3,3 +3,9 @@
     max-width: 80%;
     margin: 5rem auto;
 }
+
+@media screen and (max-width: 500px) {
+    .formInput {
+        margin-top: 10px;
+    }
+}
