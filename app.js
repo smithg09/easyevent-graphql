@@ -24,7 +24,7 @@ app.use((req, res, next) => {
 
 
 // Serve static assets if in production
-if (process.env.NODE_ENV === 'production') {
+if (true) {
   // static folder
   app.use(express.static('frontend/build'));
 
