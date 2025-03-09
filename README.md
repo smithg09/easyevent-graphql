@@ -4,9 +4,7 @@
   <h3 align="center">EasyEvent</h3>
   <p align="center">
     💻 EasyEvent a event booking application with User Authentication and Authorization using JWT.This is made using React , Nodejs and MongoDB 
-    <br />
-   <a href="http://eventbooking-graphql.herokuapp.com/"> Check it out live here </a>
-    <br />
+        <br />
     <a href="https://github.com/smithg09/easyevent-graphql/issues/new?assignees=&labels=&template=bug_report.md&title=">🐞 Bug Report</a> &nbsp;&nbsp;
     <a href="https://github.com/smithg09/easyevent-graphql/issues/new?assignees=&labels=&template=feature_request.md&title=">📢 Feature Request</a>
     <br />
@@ -60,12 +58,6 @@ npm run server
 Run `npm run heroku-postbuild ` to build the project and deploy to heroku 
 
 ## Understand your workspace
-
-## Developer 
-| [![image](https://avatars3.githubusercontent.com/u/41014321?s=128&v=4)](https://smithgajjar.tech) |
-|:-:|
-| [![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/smith-gajjar-5a27716b/) [![Portfolio](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Browser-icon.png)](https://smithgajjar.tech) |
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
